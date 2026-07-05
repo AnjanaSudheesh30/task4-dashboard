@@ -1,1 +1,6 @@
-# task4-dashboard
+KPI Cards (Sales, Profit, Quantity, Orders),
+Monthly Sales Trend,
+Sales by Category,
+Sales by Region,
+Profit by Region,
+Interactive Region and Category Filters,
