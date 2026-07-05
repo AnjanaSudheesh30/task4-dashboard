@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Category,Region,Sales,Profit,Quantity
+1001,2023-01-01,Office Supplies,West,12312,4460,4
+1002,2023-01-02,Furniture,North,8679,2602,8
+1003,2023-01-03,Office Supplies,South,9208,1919,1
+1004,2023-01-04,Office Supplies,North,19589,817,1
+1005,2023-01-05,Furniture,South,11716,2882,4
+1006,2023-01-06,Furniture,West,18453,3677,8
+1007,2023-01-07,Office Supplies,West,4444,243,5
+1008,2023-01-08,Technology,South,11757,3240,2
+1009,2023-01-09,Office Supplies,East,15434,4591,6
+1010,2023-01-10,Office Supplies,South,2060,3038,5
+1011,2023-01-11,Office Supplies,East,19711,3736,2
+1012,2023-01-12,Office Supplies,North,4420,3322,3
+1013,2023-01-13,Furniture,North,1301,1267,9
+1014,2023-01-14,Office Supplies,North,13468,2716,7
+1015,2023-01-15,Technology,West,17990,1162,7
+1016,2023-01-16,Furniture,North,1699,2256,6
+1017,2023-01-17,Technology,East,1190,3082,8
+1018,2023-01-18,Technology,North,11492,3394,4
+1019,2023-01-19,Technology,South,18364,4829,8
+1020,2023-01-20,Technology,South,3975,1256,4
+1021,2023-01-21,Furniture,West,7102,832,8
+1022,2023-01-22,Furniture,South,18568,4430,9
+1023,2023-01-23,Technology,East,2816,4946,3
+1024,2023-01-24,Technology,North,1569,1053,3
+1025,2023-01-25,Furniture,West,6442,2639,2
+1026,2023-01-26,Furniture,North,2895,3424,3
+1027,2023-01-27,Furniture,North,4863,3401,3
+1028,2023-01-28,Office Supplies,East,13913,1642,5
+1029,2023-01-29,Office Supplies,South,8455,1291,5
+1030,2023-01-30,Office Supplies,South,5014,3093,2
+1031,2023-01-31,Technology,North,12093,2781,6
+1032,2023-02-01,Office Supplies,West,19070,1317,5
+1033,2023-02-02,Technology,South,4009,1640,6
+1034,2023-02-03,Technology,West,17538,3336,1
+1035,2023-02-04,Office Supplies,South,11729,2486,5
+1036,2023-02-05,Technology,West,2409,3819,9
+1037,2023-02-06,Office Supplies,East,13249,1488,2
+1038,2023-02-07,Office Supplies,West,1784,1956,1
+1039,2023-02-08,Furniture,East,9096,1465,9
+1040,2023-02-09,Office Supplies,East,8560,599,9
+1041,2023-02-10,Furniture,West,13533,1780,9
+1042,2023-02-11,Office Supplies,East,8343,610,6
+1043,2023-02-12,Office Supplies,North,8206,4412,8
+1044,2023-02-13,Furniture,East,6801,1424,1
+1045,2023-02-14,Furniture,South,17921,1255,4
+1046,2023-02-15,Office Supplies,West,6986,1927,1
+1047,2023-02-16,Technology,North,19225,3241,8
+1048,2023-02-17,Furniture,West,11647,3586,1
+1049,2023-02-18,Technology,South,9716,1910,3
+1050,2023-02-19,Technology,South,13323,3023,4
+1051,2023-02-20,Technology,South,5780,2314,8
+1052,2023-02-21,Furniture,East,3368,4286,6
+1053,2023-02-22,Technology,East,13039,813,7
+1054,2023-02-23,Furniture,West,7655,3702,8
+1055,2023-02-24,Technology,West,9173,4234,2
+1056,2023-02-25,Office Supplies,North,5495,3622,8
+1057,2023-02-26,Office Supplies,North,11893,4368,3
+1058,2023-02-27,Furniture,West,14403,4848,7
+1059,2023-02-28,Office Supplies,East,14121,4949,3
+1060,2023-03-01,Office Supplies,South,11966,1343,7
+1061,2023-03-02,Technology,West,1853,3809,2
+1062,2023-03-03,Furniture,North,17958,1181,6
+1063,2023-03-04,Technology,East,18532,555,3
+1064,2023-03-05,Technology,West,10907,994,3
+1065,2023-03-06,Technology,West,5777,1484,9
+1066,2023-03-07,Technology,East,16338,2058,7
+1067,2023-03-08,Technology,West,3491,3172,5
+1068,2023-03-09,Technology,East,16328,2096,7
+1069,2023-03-10,Technology,South,15599,4385,9
+1070,2023-03-11,Furniture,East,4051,604,1
+1071,2023-03-12,Office Supplies,East,16979,1314,7
+1072,2023-03-13,Technology,East,17388,1631,6
+1073,2023-03-14,Technology,West,1876,3540,9
+1074,2023-03-15,Technology,West,5142,923,1
+1075,2023-03-16,Technology,East,16202,1028,4
+1076,2023-03-17,Technology,West,7966,233,9
+1077,2023-03-18,Technology,North,8079,2205,4
+1078,2023-03-19,Office Supplies,North,8987,3727,3
+1079,2023-03-20,Office Supplies,West,7799,4880,9
+1080,2023-03-21,Technology,West,5465,1952,2
+1081,2023-03-22,Office Supplies,East,18019,4275,4
+1082,2023-03-23,Furniture,South,14417,3033,6
+1083,2023-03-24,Technology,West,19077,3384,2
+1084,2023-03-25,Furniture,North,9311,4398,8
+1085,2023-03-26,Furniture,East,18214,2911,8
+1086,2023-03-27,Technology,West,15098,1350,1
+1087,2023-03-28,Office Supplies,North,6177,3612,3
+1088,2023-03-29,Furniture,North,15262,1356,9
+1089,2023-03-30,Technology,South,9308,3476,5
+1090,2023-03-31,Furniture,East,6949,3586,6
+1091,2023-04-01,Furniture,East,2150,3684,4
+1092,2023-04-02,Furniture,South,2931,1496,2
+1093,2023-04-03,Furniture,South,10204,3737,8
+1094,2023-04-04,Office Supplies,East,19048,3430,6
+1095,2023-04-05,Furniture,East,2081,2803,5
+1096,2023-04-06,Furniture,West,17896,570,9
+1097,2023-04-07,Furniture,West,14407,1453,1
+1098,2023-04-08,Office Supplies,South,8805,2883,5
+1099,2023-04-09,Furniture,West,6237,2931,6
+1100,2023-04-10,Furniture,North,17943,457,5
+1101,2023-04-11,Office Supplies,West,13775,3119,6
+1102,2023-04-12,Office Supplies,West,17244,767,6
+1103,2023-04-13,Office Supplies,North,14184,4568,7
+1104,2023-04-14,Furniture,South,4343,1245,4
+1105,2023-04-15,Office Supplies,North,14500,4285,8
+1106,2023-04-16,Office Supplies,West,10662,3819,7
+1107,2023-04-17,Furniture,South,17964,2845,9
+1108,2023-04-18,Office Supplies,West,16125,639,7
+1109,2023-04-19,Furniture,North,9130,2879,3
+1110,2023-04-20,Technology,North,2679,4236,3
+1111,2023-04-21,Office Supplies,West,4506,4935,8
+1112,2023-04-22,Technology,East,14284,3875,5
+1113,2023-04-23,Furniture,East,8253,2608,4
+1114,2023-04-24,Office Supplies,North,10435,2879,8
+1115,2023-04-25,Furniture,North,12310,1024,6
+1116,2023-04-26,Technology,East,14296,3056,2
+1117,2023-04-27,Furniture,East,19525,1681,4
+1118,2023-04-28,Office Supplies,West,14245,3424,4
+1119,2023-04-29,Office Supplies,West,12151,4585,6
+1120,2023-04-30,Technology,East,11457,355,6
+1121,2023-05-01,Furniture,West,3479,4904,1
+1122,2023-05-02,Office Supplies,West,5452,1938,8
+1123,2023-05-03,Technology,South,6881,2044,6
+1124,2023-05-04,Office Supplies,West,15069,109,3
+1125,2023-05-05,Office Supplies,North,3849,2971,9
+1126,2023-05-06,Furniture,West,8390,897,2
+1127,2023-05-07,Office Supplies,West,12922,1115,8
+1128,2023-05-08,Furniture,East,3489,1924,3
+1129,2023-05-09,Office Supplies,North,10823,4569,5
+1130,2023-05-10,Technology,West,10207,3236,6
+1131,2023-05-11,Office Supplies,West,10540,2293,6
+1132,2023-05-12,Furniture,South,17364,323,4
+1133,2023-05-13,Furniture,West,5611,4258,3
+1134,2023-05-14,Technology,West,6878,4025,4
+1135,2023-05-15,Office Supplies,South,17347,4884,1
+1136,2023-05-16,Office Supplies,East,1851,4100,4
+1137,2023-05-17,Technology,West,19071,1733,1
+1138,2023-05-18,Office Supplies,South,7833,2252,1
+1139,2023-05-19,Office Supplies,North,12938,610,6
+1140,2023-05-20,Furniture,East,3427,484,5
+1141,2023-05-21,Office Supplies,North,5000,504,4
+1142,2023-05-22,Office Supplies,North,6052,4713,3
+1143,2023-05-23,Technology,South,3738,4671,1
+1144,2023-05-24,Technology,West,6387,2100,6
+1145,2023-05-25,Furniture,South,9002,2856,2
+1146,2023-05-26,Office Supplies,South,6536,1768,8
+1147,2023-05-27,Office Supplies,South,14479,1560,5
+1148,2023-05-28,Office Supplies,South,4913,3736,7
+1149,2023-05-29,Furniture,East,18450,2824,2
+1150,2023-05-30,Furniture,West,11636,4909,8
+1151,2023-05-31,Technology,North,6726,4278,2
+1152,2023-06-01,Furniture,North,4373,2148,4
+1153,2023-06-02,Office Supplies,West,13161,4246,1
+1154,2023-06-03,Office Supplies,North,3082,4880,5
+1155,2023-06-04,Furniture,West,17281,816,9
+1156,2023-06-05,Office Supplies,North,16305,4644,1
+1157,2023-06-06,Office Supplies,South,10817,4683,9
+1158,2023-06-07,Furniture,North,12261,1923,8
+1159,2023-06-08,Furniture,West,1417,2181,6
+1160,2023-06-09,Office Supplies,West,9808,3519,7
+1161,2023-06-10,Office Supplies,West,4267,1674,3
+1162,2023-06-11,Office Supplies,West,18209,349,1
+1163,2023-06-12,Technology,West,6745,773,5
+1164,2023-06-13,Technology,East,12338,4633,2
+1165,2023-06-14,Technology,East,1412,2265,5
+1166,2023-06-15,Furniture,North,8543,870,8
+1167,2023-06-16,Technology,West,8587,4062,9
+1168,2023-06-17,Furniture,North,1728,4463,2
+1169,2023-06-18,Furniture,West,12657,2084,3
+1170,2023-06-19,Technology,West,6988,1177,3
+1171,2023-06-20,Technology,East,19888,335,1
+1172,2023-06-21,Technology,East,3967,488,8
+1173,2023-06-22,Office Supplies,South,15527,3137,6
+1174,2023-06-23,Technology,East,17048,4958,8
+1175,2023-06-24,Office Supplies,South,18506,1948,9
+1176,2023-06-25,Furniture,South,18955,4819,5
+1177,2023-06-26,Office Supplies,South,6073,2914,3
+1178,2023-06-27,Technology,South,6104,3474,5
+1179,2023-06-28,Furniture,South,3143,3378,5
+1180,2023-06-29,Furniture,North,8357,1352,5
+1181,2023-06-30,Furniture,East,13043,4081,3
+1182,2023-07-01,Office Supplies,South,4440,4773,4
+1183,2023-07-02,Technology,West,6644,2222,9
+1184,2023-07-03,Furniture,East,11518,4630,9
+1185,2023-07-04,Furniture,East,15552,2250,2
+1186,2023-07-05,Furniture,South,3914,4959,8
+1187,2023-07-06,Office Supplies,North,14584,1429,8
+1188,2023-07-07,Office Supplies,South,13144,1458,7
+1189,2023-07-08,Technology,North,15397,2582,8
+1190,2023-07-09,Office Supplies,West,9787,4642,3
+1191,2023-07-10,Furniture,East,15191,2117,6
+1192,2023-07-11,Technology,West,1728,1431,1
+1193,2023-07-12,Furniture,North,18749,4444,7
+1194,2023-07-13,Furniture,North,1698,4361,1
+1195,2023-07-14,Office Supplies,West,8186,1458,9
+1196,2023-07-15,Technology,North,15512,4737,1
+1197,2023-07-16,Office Supplies,West,14923,4954,1
+1198,2023-07-17,Office Supplies,East,17779,3277,7
+1199,2023-07-18,Technology,West,8400,2228,2
+1200,2023-07-19,Furniture,East,5171,2280,5
